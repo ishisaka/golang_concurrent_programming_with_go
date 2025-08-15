@@ -1,0 +1,2 @@
+# golang_concurrent_programming_with_go
+Go言語で学ぶ弊校プログラミングの写経
